@@ -422,7 +422,7 @@ h2 {
     background-color: white;
     padding: 1.5rem 0.5rem;
     border-radius: 5px;
-    justify-content: center;
+    justify-items: center;
   }
   .summary__label {
     margin-right: 0.4rem;
