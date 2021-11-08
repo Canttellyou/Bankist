@@ -420,7 +420,7 @@ h2 {
   }
   .summary {
     background-color: white;
-    padding: 1.5rem 0.7rem;
+    padding: 1.5rem 0.5rem;
     border-radius: 5px;
   }
   .summary__label {
@@ -429,8 +429,6 @@ h2 {
 
   .summary__value {
     margin-right: 1.5rem;
-  }
-  .summary__value {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
   }
 }
